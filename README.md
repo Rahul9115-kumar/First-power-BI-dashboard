@@ -1,6 +1,8 @@
 # First-power-BI-dashboard
- Presenting my first Power BI dashboard, 'Madhav E-commerce Sale,' showcasing interactive data visualizations and sales insights.
+Presenting my first Power BI dashboard, 'Madhav E-commerce Sale,' showcasing interactive data visualizations and sales insights.
+<br>
 Project Description:
+<br>
 Project Name: Madhav E-commerce Sale Dashboard.
 Purpose: Analyze e-commerce sales trends, customer behavior, and product performance.
 Features: Interactive visuals, time-based analysis, KPIs like revenue and order value.
